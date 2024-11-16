@@ -5,3 +5,8 @@
 /.history
 
 ._*
+
+.git/
+.github/
+
+.npmrc
