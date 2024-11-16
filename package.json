@@ -1,0 +1,12 @@
+{
+  "name": "hr-libs",
+  "version": "1.0.0",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "henry940812two@gmail.com",
+  "license": "ISC",
+  "description": ""
+}
